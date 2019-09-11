@@ -1,20 +1,21 @@
-# I've joined the #100DaysOfCode Challenge
+# Me he unido al reto de #100DaysOfCode
 
-## Contents
+## Contenido
 
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+* [Reglas](rules.md)
+* [Log - registrarás tu progreso diario](log.md)
+* [preguntas frecuentes](FAQ.md)
+* [recursos](resources.md)
 
-## Translations
+## Traducciones
+
 [বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [italiano](intl/it/README.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md) - [ελληνικά](intl/el/README.md)
 
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
+Si quieres ayudar proporcionando traducciones de contenido/reglas en el lenguaje que conoces, envía un pull request (o un mensaje directo en twitter a  @ka11away) agregando un subfolder en el archivo 'intl' con la traducción correspondiente.
 
-## If you've decided to join:
+## Si decidiste unirte:
 
-0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
+0. Revisa el [sitio oficial](http://100daysofcode.com/) del movimiento de #100DaysOfCode.  Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
     Also, [here](https://join.slack.com/t/100xcode/shared_invite/enQtNzQwMzIwMzQxODc5LWQwMjU5Mjg0N2ZiMzIzYzJiZmE0YjNiYTBiZDBjNjlkNjBmMTYxNDBmNmE2YmE2YzY4NTgzY2Y5NDQxNWY5ZDM) is a invite link to the 100DaysOfCode Slack channel
 1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 2.  Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
