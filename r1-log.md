@@ -1,10 +1,11 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Bitácora - Round 1 - [Lulú]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+La bitácora de mi reto de #100DaysOfCode. Empieza el [12 de setiembre del 2019].
 
-## Log
+## Bitácora
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Aquí iré colocando los retos que iré desarrollando por cada día de trabajo
 
-### R1D2
+### R1D1
+
+Crud con realdatabase - firebase
