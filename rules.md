@@ -32,4 +32,4 @@
 * [Reglas](rules.md)
 * [Log - clickea aquí para que veas tu progreso](log.md)
 * [FAQ - preguntas frecuentes](FAQ.md)
-* [Recurso](resources.md)
+* [Recursos](resources.md)
