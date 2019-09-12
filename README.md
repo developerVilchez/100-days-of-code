@@ -13,28 +13,28 @@
 
 Si quieres ayudar proporcionando traducciones de contenido/reglas en el lenguaje que conoces, envía un pull request (o un mensaje directo en twitter a  @ka11away) agregando un subfolder en el archivo 'intl' con la traducción correspondiente.
 
-## Si decidiste unirte:
+## Si decidiste unirte :
 
-0. Revisa el [sitio oficial](http://100daysofcode.com/) del movimiento de #100DaysOfCode.  Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
-    Also, [here](https://join.slack.com/t/100xcode/shared_invite/enQtNzQwMzIwMzQxODc5LWQwMjU5Mjg0N2ZiMzIzYzJiZmE0YjNiYTBiZDBjNjlkNjBmMTYxNDBmNmE2YmE2YzY4NTgzY2Y5NDQxNWY5ZDM) is a invite link to the 100DaysOfCode Slack channel
-1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2.  Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-3.  **Code minimum an hour every day for the next 100 days.**
-4.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-5.  Change the date in [Rules](rules.md) to the day you've started the challenge.
-6.  Delete the examples in the log, or comment them out, and start filling it with your own content.
-7.  **Tweet your progress every day using the #100DaysOfCode hashtag.**
-8.  Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-9.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-10.  If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+0. Revisa el [sitio oficial](http://100daysofcode.com/) del movimiento de #100DaysOfCode. Conecta con otros en la plataforma de tu elección que veas en esta lista : www.100DaysOfCode.com/connect
+    también, [aquí](https://join.slack.com/t/100xcode/shared_invite/enQtNzQwMzIwMzQxODc5LWQwMjU5Mjg0N2ZiMzIzYzJiZmE0YjNiYTBiZDBjNjlkNjBmMTYxNDBmNmE2YmE2YzY4NTgzY2Y5NDQxNWY5ZDM) es un link de invitación al canal de slack de 100DaysOfCode
+1. Leer [Únete a los #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
+2. Forkea este repositorio y has commit de tu avance en el archivo de [Log](log.md) o en el otro alternativo rápido, [R1 Log](r1-log.md) (R1 por Round 1) diario. [Example](https://github.com/Kallaway/100-days-kallaway-log).
+3. **Codea como mínimo una hora cada día dentro de los siguientes 100 dias.**
+4. **Anima al menos a dos personas al reto a traves de Twitter! Devuelve el favor!!**
+5.  Cambia la fecha en el archivo [reglas](rules.md) el día que empieces con el reto.
+6.  Borra los ejemplos en el archivo de bitácora y escribe tus propios comentarios según el avance que vayas teniendo.
+7.  **Tweetea tu progreso todos los días usando el hashtag de los #100DaysOfCode.**
+8.  Sigue [100DaysOfCode](https://twitter.com/_100DaysOfCode), el bot de Twitter que retuitea los tweets que contiene el hashtag los #100DaysOfCode. Es una gran manera de mantenerte motivada y participar en la comunidad. Gracias [@amanhimself](https://twitter.com/amanhimself) por crearlo!
+9. Importante: (Mira la regla nro. 4) Anima a otros que estén haciendo el mismo reto en twitter o en otra parte - animando o felicitando cuando ellos publiquen actualizaciones de su progreso apoyándolos cuando las cosas se pongan difíciles. Así haremos crecer una comunidad que sea útil y efectiva, que lo guiará a una mayor tasa de éxito por cada persona involucrada. Es lo más probable que tu también cumplas con tu propio compromiso dado que irás familiarizandote con un par de personas (o más) desde ya.
+10. Si encuentras un recurso bueno y que ayude a los demás envía un pull request para agreagarlo al repositorio o twitealo.
 
-## Want to change other habits?
+## Quieres cambiar otros hábitos?
 
-Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
+Revisa [los #100DaysOfX retos](http://100daysofx.com/). Cambiando los hábitos cambias tu vida. Recuerda que la mejor manera de empezar es ahora.
 
-I recommend that you commit to no more than 2-3 challenges at a time, ideally 2. If you are doing the #100DaysOfCode which involves a lot of mental activity, try the [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), or [#100DaysOfFitness](http://100daysofx.com/challenges/) challenges. There is so much more on the site, check all of them out and choose the ones you want to acquire! Languages, writing, meditation, journaling, cooking, and more!
+Te recomiendo que no realices más de 2 0 3 retos a la vez, idealmente 2. Si estás haciendo el reto de #100DaysOfCode que involucra mucha actividad mental, trata el [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/) o [#100DaysOfFitness](http://100daysofx.com/challenges/) retos. Hay mucho más en el sitio, revísalos todos y selecciona el que quieres adquirir, idiomas, escritura, meditación, periodismo, cocina y más.
 
-## Note
+## Notas
 
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
+* Si tienes alguna pregunta o idea sobre los 100DaysOfCode, sientete en la libertad de hacerme llegar tus ideas a través de twitter : [@ka11away](https://twitter.com/ka11away)
+* Si te gusta este repo y lo encuentras útil, por favor considera darle una estrellita (arriba a la derecha de la página) y forkealo.
