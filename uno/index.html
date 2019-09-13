@@ -8,6 +8,10 @@
 </head>
 <body>
   <h1>Hola mundo</h1>
+  <input type="text">
+  <input type="text">
+  <button>Agrega</button>
+  <button>Salir</button>
   <script src="https://www.gstatic.com/firebasejs/6.6.0/firebase-app.js"></script>
   <script src="https://www.gstatic.com/firebasejs/5.10.1/firebase-auth.js"></script>
   <script src="https://www.gstatic.com/firebasejs/5.10.1/firebase-database.js"></script>
@@ -28,6 +32,8 @@
     <script>
     console.log('hola mundito');
     console.log(firebase.database());
+    const defaultAuth = firebase.auth();
+    console.log(defaultAuth);
     </script>
 </body>
 </html>
