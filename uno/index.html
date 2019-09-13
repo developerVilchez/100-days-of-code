@@ -33,6 +33,12 @@
     <script>
     console.log('hola mundito');
     console.log(firebase.database());
+    var adaRef = firebase.database().ref("users/ada");
+    console.log(adaRef);
+    adaRef.push().set({
+      'user_id': 'ada',
+      'text': 'The Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.'
+    })
     </script>
     <script>
     </script>
