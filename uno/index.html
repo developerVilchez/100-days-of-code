@@ -8,5 +8,25 @@
 </head>
 <body>
   <h1>Hola mundo</h1>
+  <script src="https://www.gstatic.com/firebasejs/6.6.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/5.10.1/firebase-database.js"></script>
+  <script>
+      // Your web app's Firebase configuration
+      var firebaseConfig = {
+        apiKey: "AIzaSyC9nf5lTAkqqcHYhtq2mAzAsRdn7Rw4ySU",
+        authDomain: "my-not-so-awesome-proyect.firebaseapp.com",
+        databaseURL: "https://my-not-so-awesome-proyect.firebaseio.com",
+        projectId: "my-not-so-awesome-proyect",
+        storageBucket: "",
+        messagingSenderId: "674941339443",
+        appId: "1:674941339443:web:a8ff7b0200887b07e8e046"
+      };
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+    </script>
+    <script>
+    console.log('hola mundito');
+    console.log(firebase.database());
+    </script>
 </body>
 </html>
